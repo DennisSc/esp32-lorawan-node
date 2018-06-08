@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\DennisUser\\.platformio\\penv\\Scripts;C:\\Users\\DennisUser\\.platformio\\penv;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\PuTTY\\;C:\\Program Files (x86)\\Bitvise SSH Client;C:\\Program Files\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\DennisUser\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\DennisUser\\AppData\\Local\\Programs\\Python\\Python36-32\\;C:\\Users\\DennisUser\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\DennisUser\\AppData\\Local\\Box\\Box Edit\\;C:\\Program Files\\Microsoft VS Code\\bin;;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\PuTTY\\;C:\\Program Files (x86)\\Bitvise SSH Client;C:\\Program Files\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\DennisUser\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\DennisUser\\AppData\\Local\\Programs\\Python\\Python36-32\\;C:\\Users\\DennisUser\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\DennisUser\\AppData\\Local\\Box\\Box Edit\\;C:\\Program Files\\Microsoft VS Code\\bin;",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
