@@ -27,10 +27,11 @@ static uint8_t mydata[] = "ABCD12";
 static osjob_t sendjob;
 static osjob_t randomjob;
 
+//persistently store global variables in RTC memory
 RTC_DATA_ATTR int bootCount = 0;
 RTC_DATA_ATTR byte rndom = 0;
 
-// Schedule TX every this many seconds (might become longer due to duty
+// Schedule TX interval every this many seconds (might become longer due to duty
 // cycle limitations).
 const unsigned TX_INTERVAL = 15;
 
