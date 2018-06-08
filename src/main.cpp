@@ -6,6 +6,7 @@
 #include <hal/hal.h>
 #include <ByteConvert.hpp>
 
+//initialize OLED of TTGO ES32 Devboard
 SSD1306 display(0x3c, 5, 4); // instance for the OLED. Addr, SDA, SCL
 
 //little endian
